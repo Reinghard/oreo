@@ -12,7 +12,7 @@ namespace MyCalcLib
         public int Sum(int x, int y)
         {
 
-            return x + y+10;
+            return x + y;
 
 
         }
